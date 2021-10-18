@@ -17,8 +17,8 @@ Answering complex questions with data through
 
 # :mechanical_arm: My tech resume
 * Languages: SQL, Python, Cypher, Oracle, Hive
-* Platforms: AWS, Alteryx, Jupyter Lab, Hadoop, Cloudera Data Platform, Tableau, MS PowerBI
-* Governance/Documentation: Github, Alation, Collibra, Visio, Lucid Chart, Jira
+* Platforms: AWS, Alteryx, Jupyter Lab, Hadoop, Cloudera Data Platform, Tableau, MS PowerBI, Github
+* Governance/Documentation: Alation, Collibra, Visio, Lucid Chart, Jira
 
 <!---
 jamieboehme/jamieboehme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
