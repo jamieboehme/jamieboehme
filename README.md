@@ -1,5 +1,5 @@
 # Hi, I’m Jamie
-Senior Data analyst and governance specialist with over 7 years experience in data oriented roles working with a variety of data management & visualization tools, database types, and query languages. Currently work as a senior-level data analyst driving the establishment of a new Finance data organization with a concentration in environmental finance, workforce, and tax reporting. Actively pursuing a Masters degree in Data Science at the University of St. Thomas, St. Paul, MN.
+Senior data analyst and governance specialist with over 7 years experience in data oriented roles working with a variety of data management & visualization tools, database types, and query languages. Currently work as a senior-level data analyst driving the establishment of a new Finance data organization with a concentration in environmental finance, workforce, and tax reporting. Actively pursuing a Masters degree in Data Science at the University of St. Thomas, St. Paul, MN.
 
 # :thinking: I’m interested in
 Answering complex questions with data through
