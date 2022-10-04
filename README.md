@@ -1,5 +1,5 @@
 # Hi, I’m Jamie
-Senior data analyst and governance specialist with over 7 years experience in data oriented roles working with a variety of data management & visualization tools, database types, and query languages. Currently work as a senior-level data analyst driving the establishment of a new Finance data organization with a concentration in environmental finance, workforce, and tax reporting. Actively pursuing a Masters degree in Data Science at the University of St. Thomas, St. Paul, MN.
+Senior analytics engineer with over 8 years’ experience working with teams to turn data into insights. Recognized consistently for performance in quickly learning and adapting to new technology to automate sustainable data solutions. Actively pursuing a master’s degree in Data Science at the University of St. Thomas, St. Paul, MN (Top 5 Program by Fortune magazine). ![image](https://user-images.githubusercontent.com/62729630/193836060-217c006d-fc73-4b5c-985d-76c6590b6c87.png)
 
 # :thinking: I’m interested in
 Answering complex questions with data through
@@ -8,8 +8,7 @@ Answering complex questions with data through
 * Storytelling
 
 # :books: I’m currently learning
-* How best to leverage big data technology 
-* Machine learning programs and algorithms
+* Best Practices in AI: NN and CNN
 
 # :incoming_envelope: How to reach me 
 * Email: jrpboehme@gmail.com
