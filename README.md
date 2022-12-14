@@ -4,11 +4,13 @@ Senior analytics engineer with over 8 years’ experience working with teams to 
 # :thinking: I’m interested in
 Answering complex questions with data through
 * Machine Learning
+* Deep Learning
+* AI
 * Visualizations
 * Storytelling
 
 # :books: I’m currently learning
-* Best Practices in AI: NN and CNN
+* Best Practices in AI: NN, CNN, Mask R-CNN
 
 # :incoming_envelope: How to reach me 
 * Email: jrpboehme@gmail.com
@@ -16,7 +18,7 @@ Answering complex questions with data through
 
 # :mechanical_arm: My tech resume
 * Languages: SQL, Python, Cypher, Oracle, Hive
-* Platforms: AWS, Alteryx, Jupyter Lab, Hadoop, Cloudera Data Platform, Tableau, MS PowerBI, Github
+* Platforms: AWS, Snowflake, Alteryx, Jupyter Lab, Google Colab, Hadoop, Cloudera Data Platform, Tableau, MS PowerBI, Github
 * Governance/Documentation: Alation, Collibra, Visio, Lucid Chart, Jira
 
 <!---
