@@ -1,5 +1,5 @@
 # Hi, I’m Jamie
-Senior analytics engineer with over 8 years’ experience working with teams to turn data into insights. Recognized consistently for performance in quickly learning and adapting to new technology to automate sustainable data solutions. Actively pursuing a master’s degree in Data Science at the University of St. Thomas, St. Paul, MN (Top 5 Program by Fortune magazine). ![image](https://user-images.githubusercontent.com/62729630/193836060-217c006d-fc73-4b5c-985d-76c6590b6c87.png)
+Senior analytics engineer with over 8 years’ experience working with teams to turn data into insights. Recognized consistently for performance in quickly learning and adapting to new technology to automate sustainable data solutions. Actively pursuing a master’s degree in Data Science at the University of St. Thomas, St. Paul, MN (Top 5 Program by Fortune magazine). 
 
 # :thinking: I’m interested in
 Answering complex questions with data through
