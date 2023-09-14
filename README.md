@@ -1,5 +1,6 @@
 # Hi, I’m Jamie
-Senior analytics engineer with over 8 years’ experience working with teams to turn data into insights. Recognized consistently for performance in quickly learning and adapting to new technology to automate sustainable data solutions. Actively pursuing a master’s degree in Data Science at the University of St. Thomas, St. Paul, MN (Top 5 Program by Fortune magazine). 
+Aspiring data scientist and data enthusiast with over 9 years' experience working with teams to turn data into actionable insights. Recognized consistently for communication, performance, and driving business outcomes. ![image](https://github.com/jamieboehme/jamieboehme/assets/62729630/1bed4e4b-736c-45b0-9d50-0760bc35c9e9)
+ 
 
 # :thinking: I’m interested in
 Answering complex questions with data through
